@@ -1,0 +1,4 @@
+{
+    "DockerRun.DisableDockerrc": true,
+    "python.envFile": "${workspaceFolder}\\.databricks\\.databricks.env"
+}
