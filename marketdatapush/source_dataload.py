@@ -16,7 +16,7 @@ def init_env_params(dataset_name: str):
     local_dir = '/workspaces/dezoomcamp-project/data/{dataset_name}'
     return bucket_name, folder_path, local_dir
 
-@flow(name="Ingest Flow")
+@task(log_prints=True, retries=3)
 def upload_files_to_gcs(bucket_name: str, folder_path: str, local_dir: str):  
     # create a storage client
     client = storage.Client()
@@ -39,9 +39,10 @@ def upload_files_to_gcs(bucket_name: str, folder_path: str, local_dir: str):
     print(f'{skip_counter} files skipped to {folder_path} in {bucket_name} bucket')          
     print(f'{upload_counter} files uploaded to {folder_path} in {bucket_name} bucket')
     
+@flow(name="Ingest Flow")
 def main_flow():
     #task: init_env_params
-    bucket_name, folder_path, local_dir = init_env_params("stocks")
+    bucket_name, folder_path, local_dir = init_env_params('stocks')
     upload_files_to_gcs(bucket_name, folder_path, local_dir)
    
 if __name__ == '__main__':
