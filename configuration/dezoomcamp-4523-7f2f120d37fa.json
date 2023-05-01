@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "dezoomcamp-4523",
+  "private_key_id": "7f2f120d37fa77e2c93596907c68eab8439f59c8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCuzqacWhADeSns\nA6uPAcwYKh3aMr6Z4wB+OjjZ90siCo8r6ihUeE3p6eBFQWGhEATlLbJEM3+Yw3sZ\n3G86AAVy96FX8oL44F9FI3BX8rimzZ3GLM2Jop1q31Uj96A0BI7z00g9GB5HUNUE\nlQL4MdWwL+dzw+KahDu99Som9FVqHMV9KgpXjHYiUYDtk7rt42/zb/7Ye94Kxf2/\nwZhdC1jgUWO0FEef9bJqdWMadENc6GNP2aRruior7InmWwB4X7wqsTfZ6150goK+\nVneDpydv07Pk+URa1JFQmG7y1m+D2ecQ4uBXSFNqkWXC4LqLbVgoUJSxNO10ORJu\nJhAjHPtVAgMBAAECggEAL65GW9dlDs151dqabQN8fArg4ad9vdPhSozu/OUrJTnk\nG4JfRcsa1XbpqXpP+vK3oxt3yIqTf0OyzDcIT7W5xsYsyCRp/SCWW/Fyr0qRe04S\nfv+xgJ1Oetw4CPt+QzILHA7BYYi2mZU+xWUvzispskkexMDlimgPM50vxjhXI/4J\nk1C5UEwkproFhRtqIi5x6uk5xseLTfpXtkpx3gV9+hhoJewXZefz1DHTIRJBgFzr\nCHUZuVFtt+WbZPIZOWbYQT/nQiAKQU39qkkj2Od4C+CkyF9gK68R+bg7rQvgwYtp\nXvJGPBLENbuaLjZCAGdXoo3/bJKGk8RT+wJV86cUcQKBgQDbx9ThiNmZRipyECNy\n3w+rBckwk3gJp+TAYdkDVP/Tux+9+rzz1VaZqfE3DzDOzPZXvifzur8dR2xTAe/h\nxH1PLi70KLl8EJpFXAYntmY5dfogXsSaKkdg7gZotBxiqEybAGhhIyt1lNhQgXG+\nn+eAPw30SBQObchLrwikM7cvCwKBgQDLnXhD40zFGn78FqbE2xeIwt+BrnR5+Jho\nfgOAzb1UAH+T/XKh9HKercLK6C+n2c57FJXDC3GGxd0jb8SQ0Y5spCznm8fnhsoQ\n7ZZIGLSvmoUwLhn2gTeywEEtaJt+B4sUHzSYFpjwReMEC2iuCJqFrqLG+6G2x4Br\nGjhGGXx7HwKBgHArRRL2bVg032Tnp6/w+GYoxc3s9c63yaAGUGPK9eZyEnk7h0RL\nFa/HdDzNm/Nv2Cpf+rQCE5g146tZybxINEw9Hemu/zu6nYHYvat3BCU/eTEcLOsh\nuNxXnx3BDturWa2iP6OT95JDLUOpTQwlQFnL1KtgPhw/G4LFCnwDiPKRAoGBAJT/\nDSN4cBQHuIaVuMFypX0RROarl1YtwLEuDTgy1Wlj1/eeTkUPENTmyBUc5MqKCpts\nS87nT9LUdWbaAdgLUJJVbPqqtxTIQJM0mHT3hzi89Nt10M/ebLikEM2+r5IAyRgX\nYbAtUQr5yQ6LnrVDXHeYfErplcOfp2w4SpeZTMr3AoGAMzXFy62VFkFj7gijmjKS\nHWcYEtwAH0ZxXfqAuCnyY2H5f47l4A5I28UZ56NCtFBZ7/FDsWvJfRKbdo7rpBb6\nNVwrdVn0PGoAunR0Gpb8YLVfAndLCDjuc4+uBlngwxL6bquu0ABqVqjh3TAKX+SL\nHK5fMHlY1j747t/qV3tCQmY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "market-data@dezoomcamp-4523.iam.gserviceaccount.com",
+  "client_id": "109699800691264411302",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/market-data%40dezoomcamp-4523.iam.gserviceaccount.com"
+}
